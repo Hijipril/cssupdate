@@ -1,0 +1,36 @@
+body{
+    background-color: #faf600;
+    text-align: center;
+    color: #bd6b00;
+}
+
+a{
+    font-size: 20px;
+}
+a:hover{
+    color: #bd6b00;
+}
+
+h1{
+font-size: 40px;
+text-align: center;
+}
+
+h2{
+    font-style: italic;
+    background-color: #fccb08;
+}
+
+li{
+    color: black;
+    font-size: 20px;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    size-adjust: 80px;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+}
